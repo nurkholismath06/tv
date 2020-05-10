@@ -1,0 +1,27 @@
+{
+  "indo": [
+    { "id": 1, "title": "https://www.vidio.com/live/205-indosiar", "yyy": "", "iklan": "", "url": "1" },
+    { "id": 2, "title": "https://www.vidio.com/live/204-sctv", "yyy": "", "iklan": "", "url": "1" },
+    { "id": 3, "title": "https://www.vidio.com/live/665-rcti", "yyy": "", "iklan": "", "url": "1" },
+    { "id": 4, "title": "https://www.vidio.com/live/870-mnc", "yyy": "", "iklan": "", "url": "1" },
+    { "id": 5, "title": "https://www.vidio.com/live/778-gtv", "yyy": "", "iklan": "", "url": "1" },
+    { "id": 6, "title": "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8", "yyy": "", "iklan": "", "url": "" },
+    { "id": 7, "title": "https://www.youtube.com/embed/YbDae5XMkJs", "yyy": "", "iklan": "", "url": "" },
+    { "id": 8, "title": "https://www.vlix.id/antv", "yyy": "", "iklan": "", "url": "1" },
+    { "id": 9, "title": "https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8", "yyy": "", "iklan": "", "url": "" },
+    { "id": 10, "title": "http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8", "yyy": "", "iklan": "", "url": "" },
+    { "id": 11, "title": "https://www.useetv.com/livetv/kompastv", "yyy": "", "iklan": "", "url": "" },
+    { "id": 12, "title": "https://www.youtube.com/embed/JKQzLbfh7SM", "yyy": "", "iklan": "", "url": "" },
+    { "id": 13, "title": "https://www.useetv.com/livetv/rtv", "yyy": "", "iklan": "", "url": "" },
+    { "id": 14, "title": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8", "yyy": "", "iklan": "", "url": "" },
+    { "id": 15, "title": "https://www.vidio.com/live/5409-inews", "yyy": "", "iklan": "", "url": "1" },
+    { "id": 16, "title": "https://www.useetv.com/livetv/tvri", "yyy": "", "iklan": "", "url": "" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
